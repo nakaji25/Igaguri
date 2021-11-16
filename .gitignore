@@ -1,3 +1,16 @@
+#buildフォルダ
+ClimbCloud_iOS/
+
+.DS_Store
+
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
